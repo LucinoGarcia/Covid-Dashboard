@@ -1,7 +1,4 @@
 
-
-/*
--- cumulative 
 SELECT
 	SUM(new_cases) as total_cases, 
     SUM(CAST(IFNULL(new_deaths, 0) AS SIGNED)) as TotalDeathCount,
@@ -12,10 +9,9 @@ WHERE
 	continent is not null 
 ORDER BY
 	1,2
-*/
 
 
-/*
+
 SELECT 
 	continent,
 	SUM(CAST(IFNULL(new_deaths, 0) AS SIGNED)) as TotalDeathCount
@@ -28,10 +24,9 @@ GROUP BY
 	continent
 ORDER BY
 	TotalDeathCount desc
-*/
 
 
-/*
+
 SELECT
     Location,
     Population,
@@ -44,7 +39,7 @@ GROUP BY
     Population
 ORDER BY
     PercentPopulationInfected DESC;
-*/
+
 
 
 SELECT
