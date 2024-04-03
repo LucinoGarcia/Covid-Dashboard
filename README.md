@@ -4,8 +4,8 @@
 
 
 # Resources 
-**Excel Version:** <br>
-**SQL Version:** <br>
+**Excel Version:** 16.78<br>
+**mySQL Version:** 8.0.32<br>
 
 
 
