@@ -34,5 +34,5 @@ The deletion of columns was done in Excel to expedite the import into MySQL Work
 
 
 
-![image](/Coviash.png)
+![image](/Covid_Dash.png)
 [Link to the Tableau Dashboard](https://public.tableau.com/app/profile/lucino.garcia/viz/CovidDashboard2019-2021_17121143050260/Dashboard1?publish=yes) <br>
