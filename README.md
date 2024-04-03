@@ -31,7 +31,7 @@ The deletion of columns was done in Excel to expedite the import into MySQL Work
 <br>
 
 # Dashboard
-
+The SQL outputs were exported as Excel files before subsequently being imported into Tableau for the creation of the dashboard below.
 
 
 ![image](/Covid_Dash.png)
