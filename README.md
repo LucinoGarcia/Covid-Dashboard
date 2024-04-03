@@ -1,5 +1,7 @@
 # Covid Dashboard: Project Overview
-
+- Conducted an exhaustive analysis of global COVID-19 mortality trends spanning the years 2019 to 2021, leveraging data from the Our World in Data database.
+- Orchestrated the development of a Tableau dashboard featuring four strategic queries, extracting critical metrics such as total cases, fatalities, death rates, peak infection counts, population demographics, and infection rates.
+- Employed advanced SQL querying techniques to aggregate and dissect COVID-19 data, implementing refined filtering mechanisms by continent and excluding specific locales to maintain data fidelity, while utilizing data visualization tools to articulate actionable insights for policy decision-makers.
 
 
 
